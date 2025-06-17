@@ -19,4 +19,9 @@ sudo mkdir /docker/homelab
 cd /data
 mkdir -p downloads/qbittorrent/{completed,incomplete,torrents} && mkdir -p downloads/nzbget/{completed,intermediate,nzb,queue,tmp}
 ```
-### 
+### Getting the docker compose
+```
+cd /docker/homelab
+wget https://raw.githubusercontent.com/OwNuT/HomeLab/refs/heads/main/compose.yaml
+docker compose up -d
+```
