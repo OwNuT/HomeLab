@@ -29,21 +29,21 @@ services:
       servarrnetwork:
         ipv4_address: 172.39.0.7
 
-  nzbget:
-    image: lscr.io/linuxserver/nzbget:latest
-    container_name: nzbget
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Europe/Brussels
-    volumes:
-      - /etc/localtime:/etc/localtime:ro
-      - ./nzbget:/config
-      - /data:/data
-    restart: unless-stopped
-    networks:
-      servarrnetwork:
-        ipv4_address: 172.39.0.7
+#  nzbget:
+#    image: lscr.io/linuxserver/nzbget:latest
+#    container_name: nzbget
+#    environment:
+#      - PUID=1000
+#      - PGID=1000
+#      - TZ=Europe/Brussels
+#    volumes:
+#      - /etc/localtime:/etc/localtime:ro
+#      - ./nzbget:/config
+#      - /data:/data
+#    restart: unless-stopped
+#    networks:
+#      servarrnetwork:
+#        ipv4_address: 172.39.0.7
 
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
