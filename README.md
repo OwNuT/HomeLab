@@ -17,7 +17,7 @@ sudo chown -R $USER /docker
 sudo chgrp -R $USER /docker
 sudo mkdir /docker/homelab
 cd /data
-mkdir -p downloads/qbittorrent/{completed,incomplete,torrents} && mkdir -p downloads/nzbget/{completed,intermediate,nzb,queue,tmp}
+mkdir -p downloads/qbittorrent/{completed,incomplete,torrents} && mkdir -p downloads/nzbget/{completed,intermediate,nzb,queue,tmp} && mkdir -p /data/{movies,show}
 ```
 ### Getting the docker compose
 ```
