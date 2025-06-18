@@ -22,3 +22,6 @@ After grabbing the API key, head back to prowlarr to set up the application
 
 ![image](https://github.com/user-attachments/assets/611ea339-0034-48b9-9d76-7f7138dccbfb)
 
+### Set up download client qBittorrent
+
+![image](https://github.com/user-attachments/assets/96bfcf3d-33ad-4ba7-8d14-ae14b0eed5c4)
