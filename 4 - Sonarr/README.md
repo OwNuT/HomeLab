@@ -1,4 +1,4 @@
-### Connect to Radarr
+### Connect to Sonarr
 ```
 http://192.168.0.101:8989
 ```
