@@ -21,4 +21,4 @@ Navigate to settings --> WebUI
 
 ![image](https://github.com/user-attachments/assets/8f224128-fd73-4a2b-97b3-8ddfda3f4136)
 
-![image](https://github.com/user-attachments/assets/60af671a-8b3e-4304-a6be-14dde84daf5f)
+![image](https://github.com/user-attachments/assets/a9c81d1d-71b2-4ef1-8039-97f2d61540f1)
