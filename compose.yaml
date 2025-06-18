@@ -134,7 +134,7 @@ services:
       servarrnetwork:
         ipv4_address: 172.39.0.6
 
-    jellyfin:
+  jellyfin:
     image: lscr.io/linuxserver/jellyfin:latest
     container_name: jellyfin
     environment:
