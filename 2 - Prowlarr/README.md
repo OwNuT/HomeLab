@@ -10,3 +10,4 @@ Set-up FlareSolverr
 
 ![image](https://github.com/user-attachments/assets/1b1044f1-f059-4905-8df7-f3e0e8bb39dc)
 
+Now setting up Indexers 👀
