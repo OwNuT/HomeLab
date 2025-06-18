@@ -155,3 +155,19 @@ services:
       servarrnetwork:
         ipv4_address: 172.39.0.10
     restart: unless-stopped
+
+  jellyseerr:
+    container_name: jellyseerr
+    image: fallenbagel/jellyseerr:latest
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Brussels
+    volumes:
+      - ./jellyseerr:/app/config
+    ports:
+      - 5055:5055
+    networks:
+      servarrnetwork:
+        ipv4_address: 172.39.0.11
+    restart: unless-stopped
