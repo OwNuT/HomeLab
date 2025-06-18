@@ -18,3 +18,7 @@ After grabbing the API key, head back to prowlarr to set up the application
 
 ![image](https://github.com/user-attachments/assets/2aeb5524-10c3-4097-b2f7-151068ee0cd4)
 
+### Import movies Library
+
+![image](https://github.com/user-attachments/assets/611ea339-0034-48b9-9d76-7f7138dccbfb)
+
