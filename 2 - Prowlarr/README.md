@@ -6,4 +6,7 @@ Configure Download client qBittorent (use qBittorent credentials)
 
 ![image](https://github.com/user-attachments/assets/84c19ff5-97a3-4642-bb6a-0f95d000440e)
 
+Set-up FlareSolverr
+
+![image](https://github.com/user-attachments/assets/1b1044f1-f059-4905-8df7-f3e0e8bb39dc)
 
