@@ -1,6 +1,5 @@
 networks:
   servarrnetwork:
-    external: true
     name: servarrnetwork
     ipam:
       config:
