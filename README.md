@@ -6,6 +6,7 @@
 * HDD : 2to
 * CasaOS : curl -fsSL https://get.casaos.io | sudo bash
 * Tailscale : curl -fsSL https://tailscale.com/install.sh | sh
+* IP : static 192.168.0.101
 
 ### Set-up folders
 ```
