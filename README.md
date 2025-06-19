@@ -1,3 +1,6 @@
+# HELP
+1. The ip address of each container change every time i reboot my server. How to stop that ?
+
 ### Basic server config before starting
 * OS : Ubuntu Server 24.04.2 LTS
 * HDD : 2to
