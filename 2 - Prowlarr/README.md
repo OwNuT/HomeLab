@@ -1,4 +1,4 @@
-### Connect to Radarr
+### Connect to Prowlarr
 ```
 http://192.168.0.101:9696
 ```
